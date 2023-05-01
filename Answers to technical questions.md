@@ -1,6 +1,6 @@
 ## Demo 
 
-You can visit the booksearch app live at [(book search)(https://booksearch001.netlify.app/)]
+You can visit the booksearch app live at [[book search](https://booksearch001.netlify.app/)]
 
 ## How long did you spend on the coding assignment?
 
@@ -13,7 +13,7 @@ I spend around 8 hours on this coding assignment.
 ## What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
  
  One useful feature in this code is the useEffect hook that adds and removes an event listener when the component mounts and unmounts respectively. Here's the code snippet for that:
- <img src = "snip.jpg>
+ <img src = "snip.png">
  
 ## How would you track down a performance issue in production? Have you ever had to do this?
 
