@@ -112,7 +112,7 @@ const BookSearch = (props) => {
           </form>
         </>
       )}
-
+      
       {!selectedBook && (
         <div className="sort-by">
           <label htmlFor="sort-by-select">Sort by:</label>
