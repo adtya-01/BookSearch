@@ -41,7 +41,6 @@ const BookSearch = (props) => {
         });
     }
   };
-
   // Function to handle click on a book card
   const handleBookClick = (book) => {
     setSelectedBook(book); // update selectedBook state with clicked book
